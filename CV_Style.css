@@ -23,7 +23,7 @@ h1 {
 }
 
 .content {
-    margin: 0 2% auto;
+    margin: 0 5% auto;
 }
 
 .title {
@@ -68,11 +68,10 @@ div {
 }
 
 .samplerenders img{
-    padding-left: 0px;
-    padding-right: 0px;
-    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 80%;
     height: auto;
-    position: relative;
     display: block;
     float: center;
 }
