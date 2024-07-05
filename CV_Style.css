@@ -4,13 +4,26 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.header {
-    margin: 0 0 30px 0;
+h1 {
+    margin: 0;
+    border: 0;
+    padding: 0;
 }
 
-img {
-    max-width: 640px;
-    padding-left: 40px;
+.header {
+    margin: 0 0 30px 0;
+    border: 0 0 30px 0;
+    padding: 0 0 30px 0;
+}
+
+.contact p{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.content {
+    margin: 0 2% auto;
 }
 
 .title {
@@ -19,11 +32,11 @@ img {
 }
 
 img.Jess {
-    width: 200px;
+    width: 160px;
     position: relative;
-    display: inline-block;
-    text-align: right;
     float: right;
+    padding-left: 0;
+    border-bottom: 60px;
 }
 
 li {
@@ -44,10 +57,32 @@ div {
     padding: 10px 0px;
 }
 
+.project img{
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 92%;
+    max-width: 720px;
+    height: auto;
+    position: relative;
+    display: inline-block;
+}
+
+.samplerenders img{
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+    height: auto;
+    position: relative;
+    display: block;
+    float: center;
+}
+
 #bold {
-    text-align: left;
+    text-align: center;
     text-emphasis-style: bold;
     Padding: 10px auto;
     color: palegoldenrod;
     margin: 10 auto;
+
 }
+
