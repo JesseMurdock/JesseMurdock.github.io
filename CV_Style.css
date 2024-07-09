@@ -24,6 +24,7 @@ h1 {
 
 .content {
     margin: 0 5% auto;
+    min-width: 350px;
 }
 
 .title {
