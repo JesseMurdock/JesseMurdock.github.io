@@ -25,6 +25,7 @@ h1 {
 .content {
     margin: 0 5% auto;
     min-width: 350px;
+    max-width: 2160px;
 }
 
 .title {
@@ -85,4 +86,3 @@ div {
     margin: 10 auto;
 
 }
-
