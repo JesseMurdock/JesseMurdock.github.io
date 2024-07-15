@@ -86,3 +86,8 @@ div {
     margin: 10 auto;
 
 }
+
+#summary {
+    min-width: 350px;
+    max-width: 720px;
+}
